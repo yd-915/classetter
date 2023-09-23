@@ -93,7 +93,7 @@ export default async function handler(req, res) {
     },
     templateId: process.env.SENDGRID_MAGIC_LINK_TEMPLATE_ID,
     dynamicTemplateData: {
-      heading: "Your Repsetter Magic Link",
+      heading: "Your AstraTuition Magic Link",
       body: "Follow this link to sign in to Repsetter:",
       optional_link: "Sign In",
       optional_link_url: data.action_link,
