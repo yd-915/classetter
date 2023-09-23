@@ -4,7 +4,7 @@ export default function Terms() {
   return (
     <>
       <Head>
-        <title>Terms of Use - Repsetter</title>
+        <title>Terms of Use - AstraTuition</title>
       </Head>
       <div className="prose mx-auto max-w-prose text-lg">
         <h1>
