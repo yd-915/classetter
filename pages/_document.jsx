@@ -16,11 +16,11 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#fff" />
           <meta
             name="description"
-            content="Repsetter - Your New Favorite Workout Diary"
+            content="AstraTuition - Your New Favorite STEM Diary"
           />
           <meta
             property="og:title"
-            content="Repsetter - Your New Favorite Workout Diary"
+            content="AstraTuition - Your New Favorite STEM Diary"
           />
           <meta property="og:image" content="/images/logo.png" />
           <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
