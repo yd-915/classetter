@@ -63,7 +63,7 @@ export default function FAQ() {
   return (
     <>
       <Head>
-        <title>FAQ - Repsetter</title>
+        <title>FAQ - AstraTuition</title>
       </Head>
       <div className="style-links mx-auto mt-2 max-w-3xl divide-y-2 divide-gray-200">
         <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
