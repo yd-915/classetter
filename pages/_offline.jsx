@@ -4,7 +4,7 @@ export default function Offline() {
   return (
     <>
       <Head>
-        <title>Offline - Repsetter</title>
+        <title>Offline - AstraTuition</title>
       </Head>
 
       <div className="flex min-h-full flex-col bg-white pt-16 pb-12">
